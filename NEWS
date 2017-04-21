@@ -1,0 +1,38 @@
+9
+ENHANCEMENTS:
+* New translations
+
+7
+ENHANCEMENTS:
+* Ignacio Rodriguez port to GTK3
+
+5
+ENHANCEMENTS:
+* New translations
+
+BUG_FIX:
+* Add missing import that broke audio recording
+
+4
+ENHANCEMENTS:
+* New translations
+* Save images to Journal whenever saving an audio recording
+
+BUG_FIX:
+* More robust detection of EOS for audio recording
+
+3
+
+BUG_FIX:
+* Fix typo that prevented launch
+
+2
+
+ENHANCEMENTS
+* Add some color
+* Save images to Journal
+* Add audio notes
+
+1
+
+* New game insprired by Claudia Urrea
